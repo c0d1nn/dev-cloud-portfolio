@@ -1,7 +1,6 @@
 "use client"
 import React, { useEffect } from "react"
 import { SiFramer, SiFigma, SiReact, SiNodedotjs, SiMongodb, SiDocker } from "react-icons/si"
-import { FaLemon } from "react-icons/fa"
 import { motion, useAnimation } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 
